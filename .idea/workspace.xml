@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2b60718-c282-4869-a938-9cbcf258b3f6" name="Changes" comment="" />
+    <list default="true" id="0851bccd-387e-4d30-9dcf-2db1a74ddea1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/letter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/letter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mail-up.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/message-motivation.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/message-motivation.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,79 +19,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2mYUKH2ovaqfxb1g3bTxv5GQE4v" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2mYSjyrMCnd96xvsJq6PvASWC0k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lutula/Desktop/test/untitled&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lutula/Downloads/b2-profile",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="untitled" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2b60718-c282-4869-a938-9cbcf258b3f6" name="Changes" comment="" />
-      <created>1727252940301</created>
+      <changelist id="0851bccd-387e-4d30-9dcf-2db1a74ddea1" name="Changes" comment="" />
+      <created>1727252155474</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727252940301</updated>
-      <workItem from="1727252941372" duration="297000" />
-      <workItem from="1727253260050" duration="5174000" />
-      <workItem from="1727287556704" duration="15000" />
-      <workItem from="1727287575122" duration="190000" />
-      <workItem from="1727287785042" duration="6000" />
-      <workItem from="1727288071251" duration="78000" />
-      <workItem from="1727288161346" duration="4000" />
-      <workItem from="1727288304446" duration="13000" />
-      <workItem from="1727288320404" duration="67000" />
-      <workItem from="1727288391719" duration="21000" />
-      <workItem from="1727288872856" duration="8000" />
-      <workItem from="1727289655303" duration="257000" />
-      <workItem from="1727291012366" duration="655000" />
-      <workItem from="1727291746939" duration="342000" />
+      <updated>1727252155474</updated>
+      <workItem from="1727252156522" duration="783000" />
     </task>
     <servers />
   </component>
